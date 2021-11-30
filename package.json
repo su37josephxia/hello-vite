@@ -1,0 +1,8 @@
+{
+  "name": "hello-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:su37josephxia/hello-vite.git",
+  "author": "josephxia <15906475@qq.com>",
+  "license": "MIT"
+}
